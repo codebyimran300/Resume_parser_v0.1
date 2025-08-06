@@ -1,5 +1,5 @@
 # Resume_parser_v0.1
 resume filtering project
 <br>
-Author - Imran, Inyakjem and Moanungtet
+Author - Imran, Inyakjem and Moanungtet jamir
 
